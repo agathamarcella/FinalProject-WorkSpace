@@ -1,0 +1,688 @@
+﻿1
+00:00:00,000 --> 00:00:05,190
+Halo nama saya agatha marcella
+
+2
+00:00:05,200 --> 00:00:10,490
+saya umur 20 tahun sekarang saya semester 7
+
+3
+00:00:10,500 --> 00:00:15,490
+kuliah di Universitas Negeri Jakarta dan saat
+
+4
+00:00:15,500 --> 00:00:20,590
+ini saya akan melakukan user testing untuk aplikasi yang sudah saya buat
+
+5
+00:00:20,600 --> 00:00:25,689
+untuk memenuhi tugas salah satu mata
+
+6
+00:00:25,700 --> 00:00:30,790
+kuliah di kampus yaitu mobile computing, user testing
+
+7
+00:00:30,800 --> 00:00:37,490
+ini dilakukan ada 3
+
+8
+00:00:37,500 --> 00:00:43,490
+user yang telah saya interview jadi dari
+
+9
+00:00:43,500 --> 00:00:48,590
+aplikasi yang sudah saya buat saya masukkan
+
+10
+00:00:48,600 --> 00:00:56,090
+ke Playstore kemudian saya melakukan user testing, nah untuk
+
+11
+00:00:56,100 --> 00:01:01,790
+user teesting ini ini yang pertama ada Viery
+
+12
+00:01:01,800 --> 00:01:06,890
+berumur 22 tahun kemudian ada Ali yang
+
+13
+00:01:06,900 --> 00:01:14,990
+berumur 26 tahun dan Ghifari yang berumur 26 tahun juga, nah
+
+14
+00:01:15,000 --> 00:01:20,289
+di aplikasi yang saya buat ini adalah untuk melihat daftar
+
+15
+00:01:20,300 --> 00:01:25,490
+coffeeshop atau tempat makan yang
+
+16
+00:01:25,500 --> 00:01:30,490
+biasa dikunjungi orang untuk mengerjakan tugas atau
+
+17
+00:01:30,500 --> 00:01:36,990
+bekerja atau hanya sekedar nongkrong bersama teman-teman biasanya
+
+18
+00:01:37,000 --> 00:01:41,990
+orang-orang mencari
+
+19
+00:01:42,000 --> 00:01:48,690
+referensi coffeeshop itu atau tempat makan itu di aplikasi atau di
+
+20
+00:01:48,700 --> 00:01:54,390
+Google nya langsung ini saya mencoba untuk mempermudah jadi saya membuat
+
+21
+00:01:54,400 --> 00:02:01,789
+aplikasi yang mempermudah user untuk Mencari
+
+22
+00:02:01,800 --> 00:02:08,290
+coffeeshop referensi tempat dan lain lain, sekarang
+
+23
+00:02:08,300 --> 00:02:20,390
+sebentar lagi akan saya mulai user testing nya, jadi selamat menonton. Terima kasih.
+
+24
+00:02:20,400 --> 00:02:25,790
+halo kak, nama aku agatha marcella. Di sini aku mau ngelakuin
+Halo
+
+25
+00:02:25,800 --> 00:02:30,390
+wawancara untuk tugas salah satu mata kuliah di kampus aku
+
+26
+00:02:30,400 --> 00:02:35,490
+yaitu mobile computing sekarang boleh perkenalkan diri dulu kak
+
+27
+00:02:35,500 --> 00:02:40,590
+Oh ya Perkenalkan nama saya Viery Firja Azury
+
+28
+00:02:40,600 --> 00:02:45,790
+asal saya dari Jakarta ya Saya
+
+29
+00:02:45,800 --> 00:02:50,790
+kuliah di luar kota
+Umur
+
+30
+00:02:50,800 --> 00:02:55,690
+berapa kak kalau boleh tahu
+Umur saya baru 22 tahun
+
+31
+00:02:55,700 --> 00:03:02,290
+bulan lalu baru 22 tahun
+berarti sekarang stay nya di Jakarta ya
+
+32
+00:03:02,300 --> 00:03:07,490
+Iya stay nya di Jakarta cuma lagi kuliah online kan jadi ya
+
+33
+00:03:07,500 --> 00:03:12,590
+stay di Jakarta lagi semester akhir juga
+kegiatan nya cuma kuliah aja atau
+
+34
+00:03:12,600 --> 00:03:17,790
+ada kegiatan lain
+Sebelumnya kan kerja cuma
+
+35
+00:03:17,800 --> 00:03:22,290
+udahan kerjanya karena pengen lagi pengen buru-buru lulus kan sengaja
+
+36
+00:03:22,300 --> 00:03:30,090
+akhirnya berhenti dulu kerja nya mau fokus nyusun skripsi
+oh gitu, Nah
+
+37
+00:03:30,100 --> 00:03:33,190
+kalau biasanya tuh nyusun skripsi di rumah atau di luar sih kak?
+
+38
+00:03:33,200 --> 00:03:38,590
+oh macam-macam kan sebenarnya sih lebih, lebih
+
+39
+00:03:38,600 --> 00:03:45,390
+fifty-fifty ya, nggak 60:40 lebih 60 di kosan
+
+40
+00:03:45,400 --> 00:03:50,990
+40 nya di coffeeshop, kalau engga di tempat luar lah tapi kalo di luar lebih sering
+
+41
+00:03:51,000 --> 00:03:56,190
+di coffeeshop sih karena kan tempat nya enak
+kalo di
+
+42
+00:03:56,200 --> 00:04:01,490
+coffeeshop tuh lebih suka lihat dari minumannya atau dari
+
+43
+00:04:01,500 --> 00:04:06,690
+segi makanannya kayak dessert atau apa gitu
+lebih karena minumannya sih
+
+44
+00:04:06,700 --> 00:04:11,690
+kan ya di sana paling nggak minimal mesen minum kopi
+
+45
+00:04:11,700 --> 00:04:15,390
+kalo makan mungkin ya nggak terlalu sering sih pernah Mungkin
+
+46
+00:04:15,400 --> 00:04:20,590
+tapi nggak terlalu sering
+biasanya tuh pesannya apa
+
+47
+00:04:20,600 --> 00:04:25,590
+tuh kalau di coffeeshop?
+kalo di coffeeshop pesennya mungkin lebih sering
+
+48
+00:04:25,600 --> 00:04:30,690
+ke black coffee ya kayak Americano long Black itu sih espresso yang
+
+49
+00:04:30,700 --> 00:04:36,390
+sejenisnya
+lebih suka yang kopi item
+
+50
+00:04:36,400 --> 00:04:43,590
+ya berarti
+Ya bisa dibilang begitulah,
+terus
+
+51
+00:04:43,600 --> 00:04:55,590
+kalau misalnya coffeeshop tuh yang non coffee biasanya kakak pesen apa
+red velvet sih
+
+52
+00:04:55,600 --> 00:05:01,990
+seringnya red velvet
+kan ditugas aku ini tuh diharuskan
+
+53
+00:05:02,000 --> 00:05:07,890
+untuk membuktikan kalau misalnya kayak kakak suka kopi gitu ya atau sering ke coffeeshop nih, Nah
+
+54
+00:05:07,900 --> 00:05:13,490
+kalau boleh tahu tuh coffeeshop mana sih yang menurut kakak enak gitu
+
+55
+00:05:13,500 --> 00:05:19,290
+tempatnya yang sering didatengin
+kalau di daerah dekat
+
+56
+00:05:19,300 --> 00:05:24,690
+sini ya Jakarta beberapa hari kebelakang sih saya Paling sering
+
+57
+00:05:24,700 --> 00:05:25,490
+ke mattea, mattea coffee tuh
+
+58
+00:05:25,500 --> 00:05:30,490
+itu di daerah Cempaka Putih, Jakarta Pusat di situ sih
+
+59
+00:05:30,500 --> 00:05:35,790
+lebih, ngga lebih sering mungkin lebih belakangan ini lebih
+
+60
+00:05:35,800 --> 00:05:38,290
+senang ke situ karena tempatnya bisa dibilang enak lah
+
+61
+00:05:38,300 --> 00:05:43,490
+kira-kira tuh kalau kesana
+
+62
+00:05:43,500 --> 00:05:49,990
+biasanya tuh siang siang sore atau malam gitu sih ka?
+sebenarnya sih enaknya
+
+63
+00:05:50,000 --> 00:05:56,190
+sore ya karena kan sore abis ashar lah nggak panas nggak
+
+64
+00:05:56,200 --> 00:05:58,690
+belum terlalu ramai juga Karena kan tahu sendiri ya kan
+
+65
+00:05:58,700 --> 00:06:04,090
+kalau malam Rame banget jadi kita nunggunya males
+
+66
+00:06:04,100 --> 00:06:13,450
+sore sih lebih sering sore abis ashar lah kurang lebih, kalau selain di mattea nih
+
+67
+00:06:13,500 --> 00:06:18,790
+Kalau mau cari referensi tempat baru biasanya tuh carinya lewat
+
+68
+00:06:18,800 --> 00:06:24,290
+aplikasi atau gimana?
+banyak sih kadang-kadang kan biasanya
+
+69
+00:06:24,300 --> 00:06:32,490
+di aplikasi sih kebanyakan kayak seperti yang orang tahu ya kayak zomato, walaupun sekarang zomato udah
+
+70
+00:06:32,500 --> 00:06:39,290
+jarang yang gunain kayak zomato,  mungkin Instagram ya kan kebanyakan coffeeshop
+
+71
+00:06:39,300 --> 00:06:44,590
+kebanyakan buka
+
+72
+00:06:44,600 --> 00:06:49,590
+sebagai bahan promosi di Instagram tapi kan susah ya kalau
+
+73
+00:06:49,600 --> 00:06:55,090
+nyari coffeeshop di instagram harus ngetik 1 1
+berarti paling
+
+74
+00:06:55,100 --> 00:07:01,190
+sering dipakai aplikasi Instagram ya sekarang buat referensi gitu
+
+75
+00:07:01,200 --> 00:07:06,290
+buat referensi iya
+kalau dari
+
+76
+00:07:06,300 --> 00:07:10,190
+Instagram nih fitur apa sih yang kayak membantu banget buat
+
+77
+00:07:10,200 --> 00:07:19,090
+cari coffee shop gitu
+fitur search sih sebenarnya paling membantu
+
+78
+00:07:19,100 --> 00:07:24,090
+kalo fitur yang paling yang kurang atau yang nggak ada
+
+79
+00:07:24,100 --> 00:07:29,190
+disitu apa?
+fitur yang kurang di Instagram?
+
+80
+00:07:29,200 --> 00:07:34,390
+yang rasa jadi kurang nih mau cari tempat kopi nya
+
+81
+00:07:34,400 --> 00:07:40,090
+kayak ada yang kurang, fitur apa tuh?
+
+82
+00:07:40,100 --> 00:07:46,090
+paling navigasi
+
+83
+00:07:46,100 --> 00:07:51,390
+biasanya coffeeeshop naro buat
+
+84
+00:07:51,400 --> 00:07:56,190
+navigasi titik koordinatnya kan pakai map ya mungkin kurang di
+
+85
+00:07:56,200 --> 00:08:01,590
+bagian navigasi nya sendiri sih harus ditambahin fitur navigasi sendiri sih di Instagram biar
+
+86
+00:08:01,600 --> 00:08:06,590
+orang nggak perlu naro titik koordinat sendiri dari Google
+
+87
+00:08:06,600 --> 00:08:14,390
+Map di copy paste dulu ribet itu kan itu navigasi sih
+
+88
+00:08:14,400 --> 00:08:20,090
+aku kan baru merilis aplikasi mobile nih isi nya tuh kayak list coffeeshop atau tempat
+
+89
+00:08:20,100 --> 00:08:25,990
+makan gitu namanya workspace, nah ini aku  kasih link-nya dulu nanti
+
+90
+00:08:26,000 --> 00:08:32,690
+boleh kakak download dulu di Android
+boleh boleh boleh
+
+91
+00:08:32,700 --> 00:08:37,690
+aku kirim linknya di chat ya
+oke
+
+92
+00:08:41,470 --> 00:08:45,140
+sudah aku kirim
+sebentar
+
+93
+00:08:45,340 --> 00:08:47,340
+di download dulu aja
+
+94
+00:10:10,180 --> 00:10:14,990
+sudah selesai didownload ka?
+Ini nih
+
+95
+00:10:15,000 --> 00:10:24,290
+Workspace ya, udah udah udah saya buka dulu ya sebentar
+boleh dicoba dulu aplikasi nya di liat
+
+96
+00:10:24,300 --> 00:10:29,490
+dulu
+berarti ini bukan coffeeshop doang ya?
+
+97
+00:10:29,500 --> 00:10:33,990
+ada banyak gitu tempat hangout buat temen-temen gitu ya
+
+98
+00:10:34,000 --> 00:10:34,490
+iya
+
+99
+00:10:37,310 --> 00:10:39,310
+dicoba-coba dulu yaa
+oke
+
+100
+00:11:06,630 --> 00:11:07,790
+bagus-bagus
+
+101
+00:11:07,800 --> 00:11:13,190
+menarik sih Aplikasinya
+udah dicoba boleh aku
+
+102
+00:11:13,200 --> 00:11:18,790
+tanya-tanya dikit ya
+oh boleh boleh, silahkan
+kalau untuk
+
+103
+00:11:18,800 --> 00:11:24,390
+fitur yang ngelihat list tempat-empatnya itu muncul nggak atau ada yang
+
+104
+00:11:24,400 --> 00:11:30,490
+error atau gimana, Jalan dengan baik ga?
+
+105
+00:11:30,500 --> 00:11:35,490
+Berjalan dengan baik sih, fitur search juga udah dicoba kan ya itu berjalan dengan baik sih
+
+106
+00:11:35,500 --> 00:11:41,190
+kalau untuk fitur detail tempatnya kayak
+
+107
+00:11:41,200 --> 00:11:44,890
+informasinya itu udah cukup atau ada yang perlu ditambah lagi sih?
+
+108
+00:11:44,900 --> 00:11:50,190
+mungkin kalau untuk fitur misalnya kita klik satu lokasi
+
+109
+00:11:50,200 --> 00:11:55,090
+mungkin kurang itu doang sih detail-detail kayak misalnya di restoran A
+
+110
+00:11:55,100 --> 00:12:01,090
+tuh macam makanan tuh makanan yang Apa namanya jabarannya
+
+111
+00:12:01,100 --> 00:12:05,890
+makan apa aja di situ tuh jadi harus dijelasin juga
+
+112
+00:12:05,900 --> 00:12:11,090
+deh jangan kebanyakan white space jadinya Jadi biar bukan
+
+113
+00:12:11,100 --> 00:12:16,790
+lebih menarik jadi user juga tahu itu restoran tuh makanan
+
+114
+00:12:16,800 --> 00:12:20,990
+isinya apa aja jadi enggak bikin jadi tau
+
+115
+00:12:21,000 --> 00:12:25,090
+tau lah User sebelum ke tempat itu dia tahu menunya apa
+
+116
+00:12:25,100 --> 00:12:28,290
+aja itu lah kurang lebih lah biar Nggak banyak
+
+117
+00:12:28,300 --> 00:12:36,390
+white space sih  intinya
+jadi tambahin informasi ya
+ya mungkin informasi doang sih sejauh ini
+
+118
+00:12:36,400 --> 00:12:42,090
+yang saya lihat kurang detail
+
+119
+00:12:42,100 --> 00:12:47,190
+Kurang detail, tambahin dikit mungkin.
+Kalau fitur lokasi nya
+
+120
+00:12:47,200 --> 00:12:52,190
+udah bekerja dengan baik belum?
+direction, phone, review tuh udah aman sih
+
+121
+00:12:52,200 --> 00:12:57,250
+Baguslah bisa dibilang lumayan bagus, apalagi direction nya bagus locationnya
+
+122
+00:12:59,600 --> 00:13:04,590
+jadi yang phone contact nya udah bisa ya?
+bisa semua
+
+123
+00:13:04,600 --> 00:13:09,890
+ya bisa dibilang lumayan lah tampilan user interface nya bagus dan menarik
+
+124
+00:13:09,900 --> 00:13:14,990
+buat user
+kalau untuk ratingnya
+
+125
+00:13:15,000 --> 00:13:23,990
+itu juga udah muncul ya  ka?
+ya reting nya udah muncul ada yang bintang 4 bintang 5 bintang 3
+
+126
+00:13:24,000 --> 00:13:29,090
+ada rating nya
+nah aku mau nanya
+
+127
+00:13:29,100 --> 00:13:35,990
+nih kalau misalnya untuk orang yang yang
+
+128
+00:13:36,000 --> 00:13:40,690
+jarang pakai aplikasi buat ngeliat kayak gitu Tuh itu mudah
+
+129
+00:13:40,700 --> 00:13:44,890
+nggak sih atau user friendly nggak atau masih yang kayak
+
+130
+00:13:44,900 --> 00:13:49,990
+orang nyarinya bingung susah gimana gitu
+harusnya sih ya
+
+131
+00:13:50,000 --> 00:13:54,390
+untuk orang umum nggak sih Soalnya kan ini kan aplikasi
+
+132
+00:13:54,400 --> 00:13:58,590
+khusus buat kita nyari tempat hangout lah tempat main buat
+
+133
+00:13:58,600 --> 00:14:04,790
+sama temen-temen entah kopi atau restoran Jadi mempermudah kita enggak harus nanya
+
+134
+00:14:04,800 --> 00:14:09,190
+temennya tempat yang enak di mana atau Buka Instagram namanya
+
+135
+00:14:09,200 --> 00:14:12,790
+juga nggak tahu apa kan jadi kita buka aplikasi ini ada
+
+136
+00:14:12,800 --> 00:14:16,790
+tuh pilihannya Tuh kan ada pilihan kita bisa memilih salah
+
+137
+00:14:16,800 --> 00:14:23,290
+satu yang kita suka jadi ya membantu lah membantu user
+kalau tingkat kemudahan
+
+138
+00:14:23,300 --> 00:14:30,090
+memakai aplikasinya itu dari 1 sampai 7 Itu berapa ya kak kalau boleh tau
+1 sampai berapa
+
+139
+00:14:30,100 --> 00:14:36,090
+skalanya?
+1-7
+
+140
+00:14:36,100 --> 00:14:41,590
+6 lah 6
+6 ya?
+
+141
+00:14:41,600 --> 00:14:46,590
+skalanya 1 sampai 7 ya 6
+Ya kurang detail
+
+142
+00:14:46,600 --> 00:14:55,290
+nya doang itu kalau ditambah detail 7 lah Ya sempurna
+selain informasi
+
+143
+00:14:55,300 --> 00:15:00,090
+tadi yang itu ada Tambahan lagi untuk sarannya atau udah
+
+144
+00:15:00,100 --> 00:15:05,390
+bagus tuh apa sih yangmenurut kakak fitur yang udah bagus
+kalau untuk
+
+145
+00:15:05,400 --> 00:15:09,990
+fitur yang udah bagus sebenarnya fitur search ya, fitur search itu kan yang
+
+146
+00:15:10,000 --> 00:15:15,290
+pasti sering dipake sama orang, pasti
+
+147
+00:15:15,300 --> 00:15:19,790
+kalau kita itu berjalan dengan lancar otomatis ya di atas
+
+148
+00:15:19,800 --> 00:15:24,790
+50% aplikasi juga bisa jalan bagus
+kayak nya untuk saran detail  doang
+
+149
+00:15:24,800 --> 00:15:32,090
+jadi nggak terlalu lebar white space nya
+
+150
+00:15:32,100 --> 00:15:37,790
+ada lagi yang perlu ditambahi ga, kayak kakak mau tambahin apa gitu?
+kayaknya udah
+
+151
+00:15:37,800 --> 00:15:44,190
+sejauh ini sih saya sih lihat gambaran kasarnya baru itu deh
+
+152
+00:15:44,200 --> 00:15:50,090
+white space nya gaterlalu banyak sih jadi tengah kosong
+
+153
+00:15:50,100 --> 00:15:55,090
+mungkin diisi detail tempat makannya biar
+
+154
+00:15:55,100 --> 00:15:58,060
+lebih penuh aja aplikasinya, itu sih mungkin
+
+155
+00:15:58,080 --> 00:16:01,800
+Sebenarnya sih udah segitu aja sih ka
+
+156
+00:16:01,900 --> 00:16:08,490
+Makasih ya atas waktunya udah mau diinterview
+okay sama-sama
+
+157
+00:16:08,500 --> 00:16:09,790
+aku stop recording ya
+
+158
+00:16:09,800 --> 00:16:12,990
+Oke,
+
+159
+00:16:13,000 --> 00:16:16,220
+terima kasih banyak.
+thankyou
